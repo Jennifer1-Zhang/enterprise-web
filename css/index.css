@@ -124,7 +124,7 @@
 }
 /*内容区第一部分*/
 .content .content_one{
-	width: 100%;
+	max-width: 1060px;
 	height: 260px;
 	margin:0 auto;
 	text-align: center;
